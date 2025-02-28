@@ -11,7 +11,8 @@ Aqui estão algumas referências úteis para estudos e desenvolvimento com o ESP
 - [ESP32.com (Fórum da Comunidade)](https://www.esp32.com/)  
 - [Random Nerd Tutorials (Projetos Práticos)](https://randomnerdtutorials.com/)  
 - [LilyGO (Placas Baseadas no ESP32)](https://github.com/Xinyuan-LilyGO)
-- [Espressif ESP32 Dev Module](https://docs.platformio.org/en/latest/boards/espressif32/esp32dev.html#espressif-esp32-dev-module)  
+- [Espressif ESP32 Dev Module](https://docs.platformio.org/en/latest/boards/espressif32/esp32dev.html#espressif-esp32-dev-module)
+- [Espressif 32 configuration platformio.ini](https://docs.platformio.org/en/latest/platforms/espressif32.html#platform-espressif32)  
 
 ## 🔹 Ferramentas e Recursos  
 - [Esptool (Flash do ESP32 via CLI)](https://github.com/espressif/esptool)  
