@@ -16,5 +16,5 @@ void loop() {
   digitalWrite(LED_PIN, LOW);
   delay(tempo);
 
-  Serial.println("Olá, mundo.");
+  Serial.println("Ola, mundo.");
 }
